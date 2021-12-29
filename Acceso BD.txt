@@ -1,0 +1,3 @@
+Nombre de base de datos: peluqueria
+usuario: root
+pass: 
